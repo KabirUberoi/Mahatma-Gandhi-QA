@@ -21,7 +21,7 @@ Follow these steps to set up and run the project:
     ```
 
 2. **Download the Corpus Folder**
-    - Download the "corpus" folder from the given drive link: [Drive Link]
+    - Download the "corpus" folder from the given drive link: [Drive Link][https://drive.google.com/drive/folders/1QVvPtLnBytfP1v3MdrlAit0rXywDUkDq?usp=sharing]
     - Drag and drop the "corpus" folder into the `mahatma-gandhi-qna` repository folder.
 
 3. **Add ChatGPT API Key**
